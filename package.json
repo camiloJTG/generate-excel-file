@@ -1,0 +1,19 @@
+{
+   "name": "generate-excel-file",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "dev": "tsc && node dist/index.js"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "devDependencies": {
+      "@types/node": "^20.10.8",
+      "typescript": "^5.3.3"
+   },
+   "dependencies": {
+      "exceljs": "^4.4.0"
+   }
+}
